@@ -3,19 +3,22 @@
     "path": "C:/Users/Owner/Desktop/scratch/config.toml",
     "project_path": "config.toml",
     "type": "toml",
-    "hash": "4108034798",
+    "hash": "2362719154",
     "contents": "",
     "dirty": false,
     "created": 1593729222525.0,
     "source_on_save": false,
     "relative_order": 3,
-    "properties": {},
+    "properties": {
+        "cursorPosition": "1,11",
+        "scrollLine": "0"
+    },
     "folds": "",
-    "lastKnownWriteTime": 1593729213,
+    "lastKnownWriteTime": 1593729791,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1593729213,
+    "last_content_update": 1593729791934,
     "read_only": false,
     "read_only_alternatives": []
 }
